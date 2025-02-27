@@ -9,7 +9,7 @@ This plugin lets users to generate AI-powered travel planning. Let's contribute 
 
 ![AI Travel Itinerary Generator](https://walterpinem.com/wp-content/uploads/2025/02/AI-Travel-Itinerary-Generator-tool-preview.png)
 
-Use the following shortcode to display the AI travel generator tool anywhere on your WordPress side:
+Use the following shortcode to display the AI travel generator tool anywhere on your WordPress site:
 
 `[ai_travel_tool]`
 
